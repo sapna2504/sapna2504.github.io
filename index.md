@@ -8,7 +8,8 @@ I am a PhD Scholar at Indraprastha Institute of Information Technology, Delhi (I
 
 ## Research Interests
 
-My research interest lies broadly in the area of networks and systems. I work in the area of Internet measurement of next-generation protocol QUIC and design and development of optimized video streaming over a limited and high-speed network. Throughout my PhD work, I work on the open-source chromium-browser. The chromium modifications and the dataset collected are open-source. 
+
+My research focuses broadly on networks and systems, with a particular emphasis on Internet measurement of the next-generation QUIC protocol and the design and development of optimized video streaming for both limited and high-speed networks. Throughout my PhD, I have worked extensively with the open-source Chromium browser, contributing modifications and collecting datasets that are made publicly available as open-source resources.
 
 ## News
 
