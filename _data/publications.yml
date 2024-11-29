@@ -1,14 +1,14 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+   - title: "Managing Connections by QUIC-TCP Racing: A First Look of Streaming Media Performance Over Popular HTTP/3 Browser"
+    authors: <strong>Sapna Chaudhary </strong>, Naval Kumar Shukla, Prince Sachdeva, Sandip Chakraborty, and Mukulika Maity
+    conference_short: TNSM
+    conference: IEEE Transactions on Network and Service Management<strong>(TNSM)</strong>, 2024.
+    pdf: ./assets/files/FINAL_VERSION (1).pdf
+    code: https://github.com/sapna2504/Chromium-Modification-V2
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:aBU4FIp5fRoJ:scholar.google.com/&output=citation&scisdr=ClHXcAGgELO_8fJ9s_g:AFWwaeYAAAAAZ0h7q_jKlJlWJjpmQRwwRVCpkKU&scisig=AFWwaeYAAAAAZ0h7q1XHVZhZon96tvtt9Gk7b6c&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/mahimahisetup.png
+    notes: Published
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
