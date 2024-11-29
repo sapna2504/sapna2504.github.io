@@ -20,7 +20,7 @@ My research interest lies broadly in the area of networks and systems. I work in
 - **[June. 2023]** Presented a poster in the TMA PhD Summer School Program.
 - **[June. 2023]** Received a travel grant at TMA to participate in the TMA PhD Summer School.
 - **[January. 2022]** Volunteer in COMSNETS 2022.
-- **[January. 2022]**Presented a Poster in COMSNET 2022 titled "A Measurement Study of TCP and QUIC Through the Lens of YouTube Video Streaming."
+- **[January. 2022]** Presented a Poster in COMSNET 2022 titled "A Measurement Study of TCP and QUIC Through the Lens of YouTube Video Streaming."
 - **[2021. 2022]** Received a travel grant at IMC 2022, Mobisys 2021, and MMSys 2021 and also participated in a student mentorship program at Mobisys 2021. 
 
 
