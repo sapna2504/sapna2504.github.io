@@ -1,6 +1,6 @@
 main:
 
-   - title: "Managing Connections by QUIC-TCP Racing: A First Look of Streaming Media Performance Over Popular HTTP/3 Browser"
+  - title: "Managing Connections by QUIC-TCP Racing: A First Look of Streaming Media Performance Over Popular HTTP/3 Browser"
     authors: <strong>Sapna Chaudhary </strong>, Naval Kumar Shukla, Prince Sachdeva, Sandip Chakraborty, and Mukulika Maity
     conference_short: TNSM
     conference: IEEE Transactions on Network and Service Management<strong>(TNSM)</strong>, 2024.
