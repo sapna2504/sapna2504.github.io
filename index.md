@@ -13,6 +13,7 @@ My research focuses broadly on networks and systems, with a particular emphasis 
 
 ## News
 
+- **[December. 2024]** Our paper titled "Intel-Switch: Optimized Adaptive Protocol Selection Mechanism for Video Streaming Application" got accepted in the Graduate Forum (Comsnets 2025).
 - **[November. 2024]** Member of Technical Program Committee in the International Conference on COMmunication Systems & NETworkS (Comsnets 2025 Posters).
 - **[June. 2024]** Part of the reviewer committee of NeurIPS 2024 and ICMI 2024.
 - **[February. 2024]** Our paper titled "Managing Connections by QUIC-TCP Racing: A First Look of Streaming Media Performance Over Popular HTTP/3 Browsers" got accepted in IEEE Transactions on Network and Service Management (TNSM).
