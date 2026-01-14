@@ -4,7 +4,7 @@ main:
     authors: <strong>Sapna Chaudhary </strong>, Kartikeya Sehga, Sandip Chakraborty, and Mukulika Maity
     conference_short: ToN
     conference: IEEE Transactions on Networking<strong>(ToN)</strong>, 2024.
-    pdf: ./assets/files/FINAL_VERSION (1).pdf
+    pdf: ./assets/files/Sapna_ToN.pdf
     code: https://github.com/sapna2504/IntelSwitch-adaptive-protocol-switching
     image: ./assets/img/IntelDASH-system-overview-Page-1.png
     notes: Submitted
