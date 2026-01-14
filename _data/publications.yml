@@ -3,11 +3,11 @@ main:
   - title: "Learning to Switch: Adaptive Transport Protocols for High-Performance Video Streaming"
     authors: <strong>Sapna Chaudhary </strong>, Kartikeya Sehgal, Sandip Chakraborty, and Mukulika Maity
     conference_short: ToN
-    # conference: IEEE Transactions on Networking<strong>(ToN)</strong>, 2024.
-    # pdf: ./assets/files/Sapna_ToN.pdf
-    # code: https://github.com/sapna2504/IntelSwitch-adaptive-protocol-switching
-    # image: ./assets/img/IntelDASH-system-overview-Page-1.png
-    # notes: Submitted
+    conference: IEEE Transactions on Networking<strong>(ToN)</strong>, 2024.
+    pdf: ./assets/files/Sapna_ToN.pdf
+    code: https://github.com/sapna2504/IntelSwitch-adaptive-protocol-switching
+    image: ./assets/img/IntelDASH-system-overview-Page-1.png
+    notes: Submitted
 
   - title: "Managing Connections by QUIC-TCP Racing: A First Look of Streaming Media Performance Over Popular HTTP/3 Browser"
     authors: <strong>Sapna Chaudhary </strong>, Naval Kumar Shukla, Prince Sachdeva, Sandip Chakraborty, and Mukulika Maity
