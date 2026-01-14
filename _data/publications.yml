@@ -1,7 +1,7 @@
 main:
 
- - title: "Learning to Switch: Adaptive Transport Protocols for High-Performance Video Streaming"
-    authors: <strong>Sapna Chaudhary </strong>, Kartikeya Sehgal, Sandip Chakraborty, and Mukulika Maity
+  - title: "Learning to Switch: Adaptive Transport Protocols for High-Performance Video Streaming"
+  #    authors: <strong>Sapna Chaudhary </strong>, Kartikeya Sehgal, Sandip Chakraborty, and Mukulika Maity
     # conference_short: ToN
     # conference: IEEE Transactions on Networking<strong>(ToN)</strong>, 2024.
     # pdf: ./assets/files/Sapna_ToN.pdf
