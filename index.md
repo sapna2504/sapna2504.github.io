@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a PhD Scholar at Indraprastha Institute of Information Technology, Delhi (IIITD). I am working under the guidance of Dr. Mukulika Maity and Dr. Sandip Chakraborty from IIT Kharagpur. Before joining my PhD at IIITD, I did my M. Tech from USICT, Guru Gobind Singh Indraprastha University, Delhi, India in 2020.
+I am a PhD Scholar at Indraprastha Institute of Information Technology, Delhi (IIITD). I am working under the guidance of Dr. Mukulika Maity from IIT Madras and Dr. Sandip Chakraborty from IIT Kharagpur. Before joining my PhD at IIITD, I did my M. Tech from USICT, Guru Gobind Singh Indraprastha University, Delhi, India in 2020.
 
 ## Research Interests
 
