@@ -12,7 +12,7 @@ I am a PhD Scholar at Indraprastha Institute of Information Technology, Delhi (I
 My research focuses broadly on networks and systems, with a particular emphasis on Internet measurement of the next-generation QUIC protocol and the design and development of optimized video streaming for both limited and high-speed networks. Throughout my PhD, I have worked extensively with the open-source Chromium browser, contributing modifications and collecting datasets that are made publicly available as open-source resources.
 
 ## News
-
+- **[September, 2025]** Received N2Women SIGCOMM 2025 travel grant to present my work and to attend SIGCOMM 2025 in Coimbra, Portugal.
 - **[December. 2024]** Our paper titled "Intel-Switch: Optimized Adaptive Protocol Selection Mechanism for Video Streaming Application" got accepted in the Graduate Forum (Comsnets 2025).
 - **[November. 2024]** Member of Technical Program Committee in the International Conference on COMmunication Systems & NETworkS (Comsnets 2025 Posters).
 - **[June. 2024]** Part of the reviewer committee of NeurIPS 2024 and ICMI 2024.
