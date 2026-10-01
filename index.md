@@ -25,6 +25,7 @@ My research focuses broadly on networks and systems, with a particular emphasis 
 - **[January. 2022]** Presented a Poster in COMSNETS Graduate Forum 2022 titled "A Measurement Study of TCP and QUIC Through the Lens of YouTube Video Streaming."
 - **[2021. 2022]** Received a travel grant at IMC 2022, Mobisys 2021, and MMSys 2021 and also participated in a student mentorship program at Mobisys 2021. 
 
+[Privacy Policy](./privacy-policy)
 
 {% include_relative _includes/publications.md %}
-[Privacy Policy](./privacy-policy)
+
