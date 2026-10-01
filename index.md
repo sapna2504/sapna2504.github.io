@@ -27,4 +27,4 @@ My research focuses broadly on networks and systems, with a particular emphasis 
 
 
 {% include_relative _includes/publications.md %}
-
+[Privacy Policy](./privacy-policy)
